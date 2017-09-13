@@ -350,6 +350,15 @@
             <groupId>org.springframework.security</groupId>
             <artifactId>spring-security-data</artifactId>
         </dependency>
+        
+<dependency>
+    <groupId>org.tmatesoft.svnkit</groupId>
+    <artifactId>svnkit</artifactId>
+</dependency>
+
+        
+        
+        
         <!-- jhipster-needle-maven-add-dependency -->
     </dependencies>
     <build>
